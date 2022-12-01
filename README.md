@@ -6,3 +6,7 @@
 4. main.js
 5. closure.js
 6. mongoLocal.js
+7. callbackReadNum.js
+8. mongoLocal2.js
+9. mongodb.js
+10. mongoose.js
