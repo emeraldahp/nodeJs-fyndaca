@@ -3,6 +3,7 @@
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "mathjs": "^11.4.0",
-    "mongodb": "^4.12.1"
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.4"
   }
 }
