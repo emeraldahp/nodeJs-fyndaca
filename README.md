@@ -10,3 +10,6 @@
 8. mongoLocal2.js
 9. mongodb.js
 10. mongoose.js
+11. mongoFind.js
+12. mongoUpdate.js
+13. mongoExist.js
